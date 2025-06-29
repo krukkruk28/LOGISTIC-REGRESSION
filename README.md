@@ -7,11 +7,9 @@ This project integrates a wide spectrum of binary classification techniques, inc
 
 Traditional machine learning models like Logistic Regression, Random Forests, and Support Vector Machines
 
-Resampling strategies (e.g., SMOTE) to address class imbalance
+Hyperparameter optimization and cross-validation workflows.
 
-Hyperparameter optimization and cross-validation workflows
-
-Performance diagnostics through precision-recall tradeoffs and visual analytics
+Performance diagnostics through precision-recall tradeoffs and visual analytics.
 
 In addition, we implement deep learning architectures—such as multi-layer perceptrons (MLPs), LSTM, and GRU models—to benchmark against classic ML models and analyze performance gains in high-dimensional spaces.
 
